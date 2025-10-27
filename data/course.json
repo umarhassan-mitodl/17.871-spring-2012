@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "1605207c-ee9c-0547-9201-f5ebae7c4a8d",
+  "instructors": {
+    "content": [
+      "361dccc4-1731-0dd5-5274-8a5263a6746e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b1488666-6163-ab22-e97b-bea1f603bc54",
+    "website": "17-871-political-science-laboratory-spring-2012"
+  },
+  "course_title": "Political Science Laboratory",
+  "course_description": "This course introduces students to the conduct of political research using quantitative methodologies. The methods are examined in the context of specific political research activities like public opinion surveys, voting behavior, Congressional behavior, comparisons of political processes in different countries, and the evaluation of public policies. Students participate in joint class projects and conduct individual projects.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.871",
+  "course_image_thumbnail": {
+    "content": "eb26c631-dc1c-b836-1bd8-d09e1fbfd92f",
+    "website": "17-871-political-science-laboratory-spring-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "e11b0ff4-3ca2-433a-962b-f794a4fae5d4",
+  "site_short_id": "17.871-spring-2012",
+  "site_url_path": "courses/17-871-political-science-laboratory-spring-2012",
+  "title": "Course Metadata"
+}
